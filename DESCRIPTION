@@ -10,7 +10,6 @@ Depends:
     R (>= 3.1.2)
 Imports:
     DBI,
-    RPostgres,
     aws.s3
 Description: Tools to upload data to an Amazon Redshift Database with good performance.
 License: MIT + file LICENSE
